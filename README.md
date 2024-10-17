@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrred00" alt="mrred00" /></a> </p>
 
-- 🔭 I’m currently working on **Agm Tech**
+- 🔭 I’m currently working on **Agm Teknoloji**
 
 - 🌱 I’m currently learning **Laravel & Flutter**
 
